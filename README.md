@@ -119,7 +119,7 @@
 
 ###
 
-<h2 align="left">⚡ Ping me</h2>
+<h2 align="left">⚡ Find me</h2>
 
 ###
 
