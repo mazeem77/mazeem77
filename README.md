@@ -5,15 +5,21 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mazeem8856@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-azeem-a0b3761bb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  <a href="@Muhamma59461219" target="_blank">
+  <a href="https://stackoverflow.com/users/16585177/muhammad-azeem" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://twitter.com/Muhamma59461219" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <a href="https://tryhackme.com/p/mazeem77" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  </a>
 </div>
 
 ###
@@ -24,7 +30,7 @@
 
 ###
 
-<h1 align="center">👋 Hey there!! its Muhammad Azeem (muhammadazeem.me)</h1>
+<h1 align="center">👋 Hey there!! its Muhammad Azeem (<a>muhammadazeem.me</a>)</h1>
 
 ###
 
@@ -40,7 +46,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -106,7 +112,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">⚡ Ping me</h2>
+
+###
+
+<p align="left">🌍 Website: <a href="https://muhammadazeem.me">muhammadazeem.me</a><br>📜 Blog: <a href="https://blog.muhammadazeem.me">blog.muhammadazeem.me</a><br>🚀 Discord: sh4d0wwraith<br>👨🏻‍💻 TryHackMe: <a href="https://tryhackme.com/p/mazeem77">mazeem77</a><br>👨🏻‍💻 HackTheBox: <a>Sh4d0wWraith
+</a><br>💬 Twitter: @Muhamma59461219<br>📩 Email:<a href="mailto:mazeem8856@gmail.com">mazeem8856@gmail.com</a>
+ mazeem8856@gmail.com<br>📈 Linkedin: <a href="https://linkedin.com/in/muhammad-azeem-a0b3761bb/">Muhammad Azeem</a></p>
+
+###
+
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
@@ -117,6 +133,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/mazeem77/mazeem77/output/snake.svg" alt="Snake animation" />
 
