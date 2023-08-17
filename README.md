@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="mazeem8856@gmail.com" target="_blank">
+  <a href="mailto:mazeem8856@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-azeem-a0b3761bb/" target="_blank">
@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="center">👋 Hey there!! its Muhammad Azeem (<a>muhammadazeem.me</a>)</h1>
+<h1 align="center">👋 Hey there!! its Muhammad Azeem (<a href="https://muhammadazeem.me">muhammadazeem.me</a>)</h1>
 
 ###
 
@@ -116,9 +116,8 @@
 
 ###
 
-<p align="left">🌍 Website: <a href="https://muhammadazeem.me">muhammadazeem.me</a><br>📜 Blog: <a href="https://blog.muhammadazeem.me">blog.muhammadazeem.me</a><br>🚀 Discord: sh4d0wwraith<br>👨🏻‍💻 TryHackMe: <a href="https://tryhackme.com/p/mazeem77">mazeem77</a><br>👨🏻‍💻 HackTheBox: <a>Sh4d0wWraith
-</a><br>💬 Twitter: @Muhamma59461219<br>📩 Email:<a href="mailto:mazeem8856@gmail.com">mazeem8856@gmail.com</a>
- mazeem8856@gmail.com<br>📈 Linkedin: <a href="https://linkedin.com/in/muhammad-azeem-a0b3761bb/">Muhammad Azeem</a></p>
+<p align="left">🌍 <strong>Website:</strong> <a href="https://muhammadazeem.me">muhammadazeem.me</a><br>📜 <strong>Blog:</strong> <a href="https://blog.muhammadazeem.me">blog.muhammadazeem.me</a><br>🚀 <strong>Discord:</strong> <a href="#">Sh4d0wWraith</a><br>👨🏻‍💻 <strong>TryHackMe:</strong> <a href="https://tryhackme.com/p/mazeem77">mazeem77</a><br>👨🏻‍💻 HackTheBox: <a href="#">Sh4d0wWraith</a><br>💬 <strong>Twitter: </strong><a href="https://twitter.com/Muhamma59461219">@Muhamma59461219</a><br>📩 <strong>Email:</strong><a href="mailto:mazeem8856@gmail.com">mazeem8856@gmail.com</a>
+<br>📈 <strong>Linkedin:</strong> <a href="https://linkedin.com/in/muhammad-azeem-a0b3761bb/">Muhammad Azeem</a></p>
 
 ###
 
@@ -136,6 +135,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mazeem77/mazeem77/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/mazeem77/mazeem77/output/snake.svg" alt="Snake animation" /> -->
 
 ###
