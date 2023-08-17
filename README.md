@@ -126,6 +126,17 @@
 <p align="left">🌍 <strong>Website:</strong> <a href="https://muhammadazeem.me">muhammadazeem.me</a><br>📜 <strong>Blog:</strong> <a href="https://blog.muhammadazeem.me">blog.muhammadazeem.me</a><br>🚀 <strong>Discord:</strong> <a href="#">Sh4d0wWraith</a><br>👨🏻‍💻 <strong>TryHackMe:</strong> <a href="https://tryhackme.com/p/mazeem77">mazeem77</a><br>👨🏻‍💻 HackTheBox: <a href="#">Sh4d0wWraith</a><br>💬 <strong>Twitter: </strong><a href="https://twitter.com/Muhamma59461219">@Muhamma59461219</a><br>📩 <strong>Email:</strong><a href="mailto:mazeem8856@gmail.com">mazeem8856@gmail.com</a>
 <br>📈 <strong>Linkedin:</strong> <a href="https://linkedin.com/in/muhammad-azeem-a0b3761bb/">Muhammad Azeem</a></p>
 
+```js
+const hackerMotto = () => {
+  for (let i = 0; i < 3; i++) {
+    console.log('I will not repeat the same vulnerable code.')
+  }
+  console.log('Oops, my loop just got hacked!')
+}
+
+hackerMotto()
+```
+
 ###
 
 <h2 align="left">🔥   My Stats :</h2>
